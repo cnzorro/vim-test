@@ -95,5 +95,5 @@ $ sh <(wget --no-check-certificate https://github.com/kaochenlong/cch/raw/master
 
 有任何問題，歡迎直接來信，或是直接在 GitHub 上給我發個 Issue 或 Pull Request :)
 
-by 高見龍 eddie@5xruby.tw 
+
 
